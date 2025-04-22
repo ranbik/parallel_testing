@@ -39,7 +39,7 @@ Each test:
 Install dependencies using: pip install pytest pytest-xdist
 
 ## Running the Tests
-pytest -n 4
+pytest -n 2
 
 
 
